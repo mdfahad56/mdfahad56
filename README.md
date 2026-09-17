@@ -184,15 +184,17 @@ into SQL queries** and executes them against a database.
 # 📊 GitHub Stats
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdfahad56&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=mdfahad56&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-alt="GitHub Stats"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfahad56&layout=compact&theme=tokyonight&hide_border=true"
-alt="Most Used Languages"/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfahad56&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
