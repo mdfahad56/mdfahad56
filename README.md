@@ -181,26 +181,21 @@ into SQL queries** and executes them against a database.
 </p>
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdfahad56&theme=tokyonight"
-        alt="GitHub Stats"
-        height="180"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdfahad56&theme=tokyonight"
-        alt="Most Used Languages"
-        height="180"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mdfahad56&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdfahad56&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most Used Languages"
+  />
+</p>
 
 # 🔥 GitHub Streak
 
