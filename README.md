@@ -155,34 +155,49 @@ blood banks** during emergency situations.
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## 🧠 Data Structures & Algorithms
 
-I regularly practice DSA and competitive programming to improve
-problem-solving and algorithmic thinking.
+<p align="center">
+  I regularly practice DSA and competitive programming to strengthen
+  my problem-solving and algorithmic thinking.
+</p>
 
-### 📚 Topics
+### 📚 Core Topics
 
-- Arrays
-- Strings
-- Linked Lists
-- Stack & Queue
-- Hashing
-- Binary Search
-- Sorting
-- Trees
-- Graphs
-- Recursion
-- Backtracking
-- Dynamic Programming
-- Greedy Algorithms
+<p align="center">
 
-### 💻 Coding Practice
+`Arrays` `Strings` `Linked Lists` `Stack` `Queue` `Hashing`  
+`Binary Search` `Sorting` `Trees` `Graphs` `Recursion`  
+`Backtracking` `Greedy` `Dynamic Programming`
 
-- 🔥 LeetCode
-- 🏆 CodeChef
-- ⭐ HackerRank
+</p>
 
----
+### 🏆 Problem Solving
+
+<p align="center">
+
+🔥 <b>270+ LeetCode Problems Solved</b>  
+🏆 <b>2★ CodeChef</b>  
+⭐ <b>5★ HackerRank</b>
+
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
 
 # 🏆 Coding Profiles
 
