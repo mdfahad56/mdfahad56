@@ -199,26 +199,6 @@ blood banks** during emergency situations.
 </p>
 
 
-# 🏆 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.codechef.com/" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-<a href="https://www.hackerrank.com/" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
