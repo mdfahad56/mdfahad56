@@ -104,7 +104,7 @@ development, problem solving, backend development, and Generative AI.
 - 🔗 LangChain
 - 📚 Retrieval-Augmented Generation (RAG)
 - ⚡ AI Agents
-- 🐘 PostgreSQL
+- 🐘 MySQL
 - 🔌 AI APIs
 - 🚀 Scalable Backend Development
 
@@ -134,26 +134,8 @@ into SQL queries** and executes them against a database.
 
 ---
 
-## 🩸 Real-Time Blood Donation Platform
 
-A platform designed to connect **blood donors, patients, hospitals and
-blood banks** during emergency situations.
 
-### ✨ Features
-
-- 🩸 Real-time donor matching
-- 📍 Location-based search
-- 📦 Live blood inventory
-- 🚨 Emergency alerts
-- 👥 Multiple user roles
-- ⚡ Real-time notifications
-- 🔐 Authentication
-
-### 🛠️ Tech Stack
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT`
-
----
 
 ## 🧠 Data Structures & Algorithms
 
@@ -176,7 +158,7 @@ blood banks** during emergency situations.
 
 <p align="center">
 
-🔥 <b>270+ LeetCode Problems Solved</b>  
+🔥 <b>300+ LeetCode Problems Solved</b>  
 🏆 <b>2★ CodeChef</b>  
 ⭐ <b>5★ HackerRank</b>
 
