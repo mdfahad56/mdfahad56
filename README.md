@@ -36,59 +36,13 @@ development, problem solving, backend development, and Generative AI.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=fastapi" width="55" alt="FastAPI"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=sqlite" width="55" alt="SQLite"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,fastapi,mysql,sqlite,git,github,vscode" />
 </p>
+
+---
 
 ## 🛠️ Development Environment
 
